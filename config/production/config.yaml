@@ -2,6 +2,11 @@
 
 baseURL: https://test.opusinternet.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 4650b8e6-e233-4916-9c91-4787d64b67aa
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false

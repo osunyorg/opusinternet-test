@@ -1,15 +1,15 @@
 default:
 contents_reading_time:
-  seconds: 2
+  seconds: 7
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: call_to_action
     title: >-
-      CTA Titre
+      Parlons de votre projet
     slug: >-
-      cta-titre
+      parlons-de-votre-projet
     ranks:
       base: 2
       self: 2
@@ -17,19 +17,19 @@ contents:
       active: true
       title: 
         value: >-
-          CTA Titre
+          Parlons de votre projet
         heading: 2
       description: >-
-        <p>CTA Texte</p>
+        <p>Je suis à votre disposition dès maintenant pour échanger sur vos besoins et trouver la solution la plus adaptée.</p>
     data:
       layout: accent_background
       text: >-
-        <p>CTA Texte</p>
+        <p>Je suis à votre disposition dès maintenant pour échanger sur vos besoins et trouver la solution la plus adaptée.</p>
 
       buttons:
         - 
           title: >-
-            Bouton
+            Me contacter
           url: >-
             /contact
           target_blank: false

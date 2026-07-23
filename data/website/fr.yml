@@ -1,7 +1,38 @@
 default:
 contents_reading_time:
-  seconds: 0
+  seconds: 2
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: call_to_action
+    title: >-
+      CTA Titre
+    slug: >-
+      cta-titre
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          CTA Titre
+        heading: 2
+      description: >-
+        <p>CTA Texte</p>
+    data:
+      layout: accent_background
+      text: >-
+        <p>CTA Texte</p>
+
+      buttons:
+        - 
+          title: >-
+            Bouton
+          url: >-
+            /contact
+          target_blank: false
+
+
 

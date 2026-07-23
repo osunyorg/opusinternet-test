@@ -19,6 +19,15 @@ items:
   descendants_targets: []
   path: "/pages/qui-suis-je"
   file: content/fr/pages/qui-suis-je/_index.html
+- title: Mon approche
+  slug: mon-approche
+  target: "/mon-approche/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/mon-approche"
+  file: content/fr/pages/mon-approche/_index.html
 - title: Services
   slug: services
   target: "/services/"

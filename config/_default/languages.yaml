@@ -9,12 +9,6 @@ fr:
   buildFuture: true
   params:
     contact_details:
-      social_networks:
-        linkedin:
-          label: >-
-            alain-pierre-forsans-1374641
-          value: >-
-            https://www.linkedin.com/in/alain-pierre-forsans-1374641/
 
   taxonomies:
     administrator: administrators

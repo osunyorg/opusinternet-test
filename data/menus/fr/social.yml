@@ -1,0 +1,18 @@
+---
+title: Liens sociaux
+items:
+- title: LinkedIn
+  slug: linkedin
+  target: https://www.linkedin.com/in/alain-pierre-forsans-1374641/
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
+- title: Malt.fr
+  slug: malt-fr
+  target: https://www.malt.fr/profile/alainpierreforsans
+  kind: url
+  new_tab: true
+  children: []
+  descendants_targets: []
+

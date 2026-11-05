@@ -15,14 +15,30 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/actualites/2026-11-05-universite-iut-comment-gerer-un-ecosysteme-multi-sites/index.html"
+to = "/blog/2026-11-05-universite-iut-comment-gerer-un-ecosysteme-multi-sites/"
+
+[[redirects]]
+from = "/equipe/alain-pierre-forsans/actualites/index.html"
+to = "/equipe/alain-pierre-forsans/blog/"
+
+[[redirects]]
 from = "/actualites/2026-09-17-architecture-de-contenu-web/index.html"
-to = "/actualites/2026-09-17-comment-concevoir-une-architecture-de-contenu-web-efficace/"
+to = "/blog/2026-09-17-comment-concevoir-une-architecture-de-contenu-web-efficace/"
 
 [[redirects]]
 from = "/actualites/index.html"
 to = "/blog/"
 
 [[redirects]]
+from = "/actualites/2026-09-17-comment-concevoir-une-architecture-de-contenu-web-efficace/index.html"
+to = "/blog/2026-09-17-comment-concevoir-une-architecture-de-contenu-web-efficace/"
+
+[[redirects]]
 from = "/actualites/2026-11-05-universite-cms-osuny/index.html"
-to = "/actualites/2026-11-05-universite-iut-comment-gerer-un-ecosysteme-multi-sites/"
+to = "/blog/2026-11-05-universite-iut-comment-gerer-un-ecosysteme-multi-sites/"
+
+[[redirects]]
+from = "/actualites/internet/index.html"
+to = "/blog/internet/"
 

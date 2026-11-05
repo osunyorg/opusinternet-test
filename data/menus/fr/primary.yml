@@ -39,7 +39,7 @@ items:
   file: content/fr/pages/services/_index.html
 - title: Blog
   slug: blog
-  target: "/actualites/"
+  target: "/blog/"
   kind: page
   new_tab: false
   children: []

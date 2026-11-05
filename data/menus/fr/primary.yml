@@ -37,6 +37,15 @@ items:
   descendants_targets: []
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
+- title: Blog
+  slug: blog
+  target: "/actualites/internet/"
+  kind: category
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts_categories/internet"
+  file: content/fr/posts_categories/internet/_index.html
 - title: Contact
   slug: contact
   target: "/contact/"

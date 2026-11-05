@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 73
+  seconds: 83
   text: >-
     1 minute
 contents:
@@ -52,24 +52,29 @@ contents:
       elements:
         - 
           title: >-
+            Pourquoi faire appel à un Directeur de projet indépendant plutôt qu’à une agence ?
+          description: >-
+            <p>Vous bénéficiez d'un interlocuteur unique avec 20 ans d'expérience, d'une grande réactivité, de coûts maîtrisés sans frais de structure d'agence, et d'un accompagnement sur-mesure axé sur vos besoins réels.</p>
+        - 
+          title: >-
             Qu'apporte ma prestation d'accompagnement ?
           description: >-
-            <p>Un pilotage global et serein. Au-delà des aspects purement techniques ou graphiques, je garantis la cohérence éditoriale, le respect du calendrier, la qualité des livrables et la coordination fluide entre toutes les parties prenantes.</p>
-        - 
-          title: >-
-            Comment sont calculés mes tarifs ?
-          description: >-
-            <p>Chaque projet étant sur-mesure, je travaille principalement au forfait (établi après une première phase de cadrage) ou au TJM (taux journalier moyen). Un devis détaillé vous est toujours remis avant tout engagement. Pour l'animation éditoriale régulière, nous définissons ensemble un forfait mensuel adapté à vos besoins.</p>
-        - 
-          title: >-
-            Est-ce que vous êtes propriétaire de votre site ?
-          description: >-
-            <p>Vos contenus vous appartiennent à 100 %. L'ensemble des textes, médias, données et architectures créés pour vous restent votre propriété exclusive. Concernant la plateforme et l'infrastructure technique, une redevance annuelle de TMA (Tierce Maintenance Applicative) assure la prise en charge de l'hébergement, des mises à jour de sécurité et du maintien en condition opérationnelle de votre site.</p>
+            <p>Un pilotage global, rigoureux et serein. Au-delà des aspects techniques ou graphiques, je garantis la cohérence éditoriale, le respect du calendrier, la qualité des livrables et une coordination fluide entre toutes les parties prenantes (prestataires, équipes internes).</p>
         - 
           title: >-
             Est-ce que j'interviens uniquement à Agen ?
           description: >-
-            <p>Je suis basé à Agen et j'interviens facilement dans tout le Lot-et-Garonne et en Nouvelle-Aquitaine et Midi-Pyrénées, mais la majorité des projets de direction de projet et de rédaction se gère très efficacement à distance, partout en France.</p>
+            <p>Non. Je suis basé à Layrac / Agen et j'interviens facilement en présentiel dans tout le Lot-et-Garonne, en Nouvelle-Aquitaine et en Occitanie. La majorité des projets de direction de projet web, d'audit et de rédaction se gèrent également très efficacement à distance, partout en France.</p>
+        - 
+          title: >-
+            Comment sont calculés mes tarifs ?
+          description: >-
+            <p>Chaque projet étant réalisé sur mesure, je travaille principalement au forfait (établi après une première phase de cadrage) ou au TJM (taux journalier moyen). Un devis détaillé vous est toujours remis avant tout engagement. Pour le webmastering et l'animation éditoriale régulière, nous définissons ensemble un forfait mensuel adapté à vos besoins.</p>
+        - 
+          title: >-
+            Mon site actuel a plusieurs années, faut-il tout refondre ?
+          description: >-
+            <p>Pas nécessairement ! Nous commençons par un audit ergonomique et éditorial. Parfois, une restructuration des contenus, une réécriture ciblée et une optimisation de l'existant suffisent à redonner toute son efficacité à votre site.</p>
         - 
           title: >-
             Qu'est-ce qu'un CMS éco-conçu comme Osuny ?

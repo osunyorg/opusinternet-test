@@ -14,3 +14,11 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/actualites/2026-09-17-architecture-de-contenu-web/index.html"
+to = "/actualites/2026-09-17-comment-concevoir-une-architecture-de-contenu-web-efficace/"
+
+[[redirects]]
+from = "/actualites/2026-11-05-universite-cms-osuny/index.html"
+to = "/actualites/2026-11-05-universite-iut-comment-gerer-un-ecosysteme-multi-sites/"
+
